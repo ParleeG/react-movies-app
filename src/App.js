@@ -3,7 +3,7 @@ let App = () =>{
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
-          Navbar
+          Movies
         </a>
         <button
           class="navbar-toggler"
